@@ -97,7 +97,6 @@ PUT/pedidos/?: Este endpont deve atualizar um pedido do usuário que está utili
 GET/logs: Este endpoint deve retornar uma lista de todos os logs. (autenticação = true / autorização = ADMIN)
 GET/logs/{id}: Este endpoint deve retornar um log por id. (autenticação = true / autorização = ADMIN)
 GET//logs/tipos: Este endpoint deve retornar uma lista de logs pelo tipo da alteração. (autenticação = true / autorização = ADMIN)
-Modelo de dados
 
 Implementação: JAVA.
 
